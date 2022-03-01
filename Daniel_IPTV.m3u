@@ -1,18 +1,16 @@
 #EXTM3U
-#EXTINF:1 type="stream" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group=" TV ABERTA" size="Medium" background="#cb7015",Record RS HD
-https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
+#EXTINF:1 type="stream" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group=" TV ABERTA" size="Medium" background="#cb7015",Record RS
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
 #EXTINF:1 type="stream" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group=" TV ABERTA" size="Medium" background="#cb7015",Record SP
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8
-#EXTINF:1 type="stream" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group=" TV ABERTA" size="Medium" background="#cb7015",Record SP HD
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
-#EXTINF:1 type="stream" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group=" TV ABERTA" size="Medium" background="#cb7015",Record RJ HD
-https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+#EXTINF:1 type="stream" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group=" TV ABERTA" size="Medium" background="#cb7015",Record RJ
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
 #EXTINF:1 type="stream" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group=" TV ABERTA" size="Medium" background="#cb7015",SBT
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 #EXTINF:1 type="stream" group=" TV ABERTA" size="Medium" background="#cb7015",TVE RS
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:1 type="stream" group=" TV ABERTA" size="Medium" background="#cb7015",Record News
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
 #EXTINF:1 type="stream" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png" group=" TV ABERTA" size="Medium" background="#cb7015",Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/rbtv/playlist.m3u8
 #EXTINF:1 type="stream" group=" TV ABERTA" size="Medium" background="#cb7015",TV Câmara
