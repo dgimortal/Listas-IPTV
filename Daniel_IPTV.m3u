@@ -1,19 +1,28 @@
 #EXTM3U
-#EXTINF:1 type="stream" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group=" TV ABERTA" size="Medium" background="#cb7015",Record RS
+
+#EXTINF:1 type="stream" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group=" TV ABERTA" size="Big" background="#7550b2",Record RS
 https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
-#EXTINF:1 type="stream" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group=" TV ABERTA" size="Medium" background="#cb7015",Record SP
+
+#EXTINF:1 type="stream" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group=" TV ABERTA" size="Big" background="#7550b2",Record SP
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
-#EXTINF:1 type="stream" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group=" TV ABERTA" size="Medium" background="#cb7015",Record RJ
+
+#EXTINF:1 type="stream" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group=" TV ABERTA" size="Big" background="#7550b2",Record RJ
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
-#EXTINF:1 type="stream" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group=" TV ABERTA" size="Medium" background="#cb7015",SBT
+
+#EXTINF:1 type="stream" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group=" TV ABERTA" size="Big" background="#7550b2",SBT
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
-#EXTINF:1 type="stream" group=" TV ABERTA" size="Medium" background="#cb7015",TVE RS
+
+#EXTINF:1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png" group=" TV ABERTA" size="Big" background="#7550b2",TVE RS
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:1 type="stream" group=" TV ABERTA" size="Medium" background="#cb7015",Record News
+
+#EXTINF:1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group=" TV ABERTA" size="Big" background="#7550b2",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
-#EXTINF:1 type="stream" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png" group=" TV ABERTA" size="Medium" background="#cb7015",Rede Brasil
+
+#EXTINF:1 type="stream" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png" group=" TV ABERTA" size="Big" background="#7550b2",Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/rbtv/playlist.m3u8
-#EXTINF:1 type="stream" group=" TV ABERTA" size="Medium" background="#cb7015",TV Câmara
+
+#EXTINF:1 type="stream" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group=" TV ABERTA" size="Big" background="#7550b2",TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:1 type="stream" group=" TV ABERTA" size="Medium" background="#cb7015",AgroBrasil TV
+
+#EXTINF:1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logo_AgroBrasilTV.jpg" group=" TV ABERTA" size="Big" background="#7550b2",AgroBrasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
