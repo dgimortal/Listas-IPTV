@@ -21,7 +21,7 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
 #EXTINF:1 type="stream" tvg-logo="https://pt.wikipedia.org/wiki/Rede_Brasil_de_Televis%C3%A3o#/media/Ficheiro:Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group=" TV ABERTA" size="Medium" background="#87375d",Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/rbtv/playlist.m3u8
 
-#EXTINF:1 type="stream" tvg-logo="https://pt.wikipedia.org/wiki/TV_C%C3%A2mara#/media/Ficheiro:Marca_TV_C%C3%A2mara_-_2018.png" group=" TV ABERTA" size="Medium" background="#87375d",TV Câmara
+#EXTINF:1 type="stream" tvg-name="TV Câmara" tvg-logo="https://pt.wikipedia.org/wiki/TV_C%C3%A2mara#/media/Ficheiro:Marca_TV_C%C3%A2mara_-_2018.png" group=" TV ABERTA" size="Medium" background="#87375d"
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logo_AgroBrasilTV.jpg" group=" TV ABERTA" size="Medium" background="#87375d",AgroBrasil TV
