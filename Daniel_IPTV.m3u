@@ -9,7 +9,7 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group=" TV ABERTA" size="Medium" background="#87375d",Record
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
 
-#EXTINF:1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Logotipo_do_SBT.svg" group=" TV ABERTA" size="Medium" background="#87375d",SBT
+#EXTINF:1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/480px-Logotipo_do_SBT.svg.png" group=" TV ABERTA" size="Medium" background="#87375d",SBT
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 
 #EXTINF:1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png" group=" TV ABERTA" size="Medium" background="#87375d",TVE RS
@@ -18,10 +18,10 @@ http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group=" TV ABERTA" size="Medium" background="#87375d",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
 
-#EXTINF:1 type="stream" tvg-logo="https://pt.wikipedia.org/wiki/Rede_Brasil_de_Televis%C3%A3o#/media/Ficheiro:Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group=" TV ABERTA" size="Medium" background="#87375d",Rede Brasil
+#EXTINF:1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group=" TV ABERTA" size="Medium" background="#87375d",Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/rbtv/playlist.m3u8
 
-#EXTINF:1 type="stream" tvg-name="TV Camara" tvg-logo="https://pt.wikipedia.org/wiki/TV_C%C3%A2mara#/media/Ficheiro:Marca_TV_C%C3%A2mara_-_2018.png" group=" TV ABERTA" size="Medium" background="#87375d"
+#EXTINF:1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Marca_TV_C%C3%A2mara_-_2018.png" group=" TV ABERTA" size="Medium" background="#87375d",TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logo_AgroBrasilTV.jpg" group=" TV ABERTA" size="Medium" background="#87375d",AgroBrasil TV
