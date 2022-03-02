@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:1 type="stream" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group=" TV ABERTA" size="Medium" background="#7550b2",Record
+#EXTINF:1 type="stream" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group=" TV ABERTA" size="Medium" background="#7550b2",Record-RS
 https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
 
-#EXTINF:1 type="stream" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group=" TV ABERTA" size="Medium" background="#7550b2",Record
+#EXTINF:1 type="stream" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group=" TV ABERTA" size="Medium" background="#7550b2",Record-SP
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 
-#EXTINF:1 type="stream" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group=" TV ABERTA" size="Medium" background="#7550b2",Record
+#EXTINF:1 type="stream" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group=" TV ABERTA" size="Medium" background="#7550b2",Record-RJ
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
 
 #EXTINF:1 type="stream" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group=" TV ABERTA" size="Medium" background="#7550b2",SBT
