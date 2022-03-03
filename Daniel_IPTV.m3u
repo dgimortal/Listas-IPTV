@@ -1,28 +1,28 @@
 #EXTM3U
 
-#EXTINF:1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group=" TV ABERTA" size="Medium" background="#87375d",Record
+#EXTINF:1 type="stream" tvg-id="RecordRioGrandedoSul.br" tvg-name="Record Rio Grande do Sul" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group=" TV ABERTA" size="Medium" background="#87375d",Record Rio Grande do Sul
 https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
 
-#EXTINF:1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group=" TV ABERTA" size="Medium" background="#87375d",Record
+#EXTINF:1 type="stream" tvg-id="RecordSaoPaulo.br" tvg-name="Record São Paulo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group=" TV ABERTA" size="Medium" background="#87375d",Record São Paulo
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 
-#EXTINF:1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group=" TV ABERTA" size="Medium" background="#87375d",Record
+#EXTINF:1 type="stream" tvg-id="RecordRio.br" tvg-name="Record Rio" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group=" TV ABERTA" size="Medium" background="#87375d",Record Rio
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
 
-#EXTINF:1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/480px-Logotipo_do_SBT.svg.png" group=" TV ABERTA" size="Medium" background="#87375d",SBT
+#EXTINF:1 type="stream" tvg-id="SBTNacional.br" tvg-name="SBT Nacional" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/480px-Logotipo_do_SBT.svg.png" group=" TV ABERTA" size="Medium" background="#87375d",SBT Nacional
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 
-#EXTINF:1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png" group=" TV ABERTA" size="Medium" background="#87375d",TVE RS
+#EXTINF:1 type="stream" tvg-id="TVE.br" tvg-name="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png" group=" TV ABERTA" size="Medium" background="#87375d",TVE
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 
-#EXTINF:1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group=" TV ABERTA" size="Medium" background="#87375d",Record News
+#EXTINF:1 type="stream" tvg-id="RecordNews.br" tvg-name="Record News" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group=" TV ABERTA" size="Medium" background="#87375d",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
 
-#EXTINF:1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group=" TV ABERTA" size="Medium" background="#87375d",Rede Brasil
+#EXTINF:1 type="stream" tvg-id="RedeBrasil.br" tvg-name="Rede Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group=" TV ABERTA" size="Medium" background="#87375d",Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/rbtv/playlist.m3u8
 
-#EXTINF:1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Marca_TV_C%C3%A2mara_-_2018.png" group=" TV ABERTA" size="Medium" background="#87375d",TV Câmara
+#EXTINF:1 type="stream" tvg-id="TVCamara.br" tvg-name="TV Câmara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Marca_TV_C%C3%A2mara_-_2018.png" group=" TV ABERTA" size="Medium" background="#87375d",TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF:1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logo_AgroBrasilTV.jpg" group=" TV ABERTA" size="Medium" background="#87375d",AgroBrasil TV
+#EXTINF:1 type="stream" tvg-id="AgroBrasilTV.br" tvg-name="AgroBrasil TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logo_AgroBrasilTV.jpg" group=" TV ABERTA" size="Medium" background="#87375d",AgroBrasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
