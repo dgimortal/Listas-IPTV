@@ -1,18 +1,18 @@
 #EXTM3U
 
-#EXTINF:1 type="stream" tvg-id="RecordRioGrandedoSul.br" tvg-name="Record Rio Grande do Sul" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group=" TV ABERTA" size="Medium" background="#87375d",Record Rio Grande do Sul
+#EXTINF:1 type="stream" tvg-id="RecordRioGrandedoSul.br" tvg-name="Record RS" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-3.png" group=" TV ABERTA" size="Medium" background="#87375d",Record RS
 https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
 
-#EXTINF:1 type="stream" tvg-id="RecordSaoPaulo.br" tvg-name="Record São Paulo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group=" TV ABERTA" size="Medium" background="#87375d",Record São Paulo
+#EXTINF:1 type="stream" tvg-id="RecordSaoPaulo.br" tvg-name="Record SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-3.png" group=" TV ABERTA" size="Medium" background="#87375d",Record SP
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 
-#EXTINF:1 type="stream" tvg-id="RecordRio.br" tvg-name="Record Rio" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group=" TV ABERTA" size="Medium" background="#87375d",Record Rio
+#EXTINF:1 type="stream" tvg-id="RecordRio.br" tvg-name="Record RJ" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-3.png" group=" TV ABERTA" size="Medium" background="#87375d",Record RJ
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
 
-#EXTINF:1 type="stream" tvg-id="SBTNacional.br" tvg-name="SBT Nacional" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/480px-Logotipo_do_SBT.svg.png" group=" TV ABERTA" size="Medium" background="#87375d",SBT Nacional
+#EXTINF:1 type="stream" tvg-id="SBTNacional.br" tvg-name="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/480px-Logotipo_do_SBT.svg.png" group=" TV ABERTA" size="Medium" background="#87375d",SBT
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 
-#EXTINF:1 type="stream" tvg-id="TVE.br" tvg-name="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png" group=" TV ABERTA" size="Medium" background="#87375d",TVE
+#EXTINF:1 type="stream" tvg-id="TVE-1.br" tvg-name="TVE RS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png" group=" TV ABERTA" size="Medium" background="#87375d",TVE RS
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 #EXTINF:1 type="stream" tvg-id="RecordNews.br" tvg-name="Record News" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group=" TV ABERTA" size="Medium" background="#87375d",Record News
