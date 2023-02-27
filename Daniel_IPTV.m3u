@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:1 type="stream" tvg-id="RecordRioGrandedoSul.br" tvg-name="Record RS" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-7.png" group=" TV ABERTA" size="Medium" background="#87375d",Record RS
-https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
+https://poa4.akamaized.net/hls/live/2037607/poa4/master.m3u8?hdnts=exp=1677514038~acl=/*~hmac=d65e771aa1c2df0351d5bb0bc3290e29b41170218f5d32a41b46e2f2d94ac1e4
 
 #EXTINF:1 type="stream" tvg-id="RecordSaoPaulo.br" tvg-name="Record SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-7.png" group=" TV ABERTA" size="Medium" background="#87375d",Record SP
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
